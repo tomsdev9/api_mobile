@@ -35,5 +35,6 @@ Elle est actuellement en cours de développement et cherche des contributeurs po
 1. Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/votreUsername/votreProjet.git
-cd votreProjet
+git clone git@github.com:tomsdev9/api_mobile.git
+
+Ici les endpoints tres prochainement...
